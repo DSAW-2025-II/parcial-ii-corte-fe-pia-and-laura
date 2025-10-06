@@ -5,7 +5,7 @@
   - Laura Catalina Hernandez Rodriguez
 ## Deployment
 [Backend deployment](https://parcial-ii-corte-be-pia-and-laura-zeta.vercel.app)
-[Frontend deployment()]
+[Frontend deployment](https://parcial-ii-corte-fe-pia-and-laura.vercel.app)
 
 # 📝 Enunciado del examen
 
